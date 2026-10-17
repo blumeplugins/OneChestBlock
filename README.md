@@ -3,6 +3,13 @@ Minecraft mod access repository for OneChestBlock
 
 <!-- BLUMECORE-MANAGED-START -->
 
+# BlumeCore: AdiSpot
+<!-- BLUMECORE-YOUTUBER:qYpoGIBiekAYGamzabmB:START -->
+994f359f-ca40-4a20-8db5-8355a173a21d
+d37eae02-cd8e-4e9c-b9d3-313b59ce792f
+f634699c-443b-4a68-abe3-b8d382f5436d
+<!-- BLUMECORE-YOUTUBER:qYpoGIBiekAYGamzabmB:END -->
+
 # BlumeCore: ChocoWizard
 <!-- BLUMECORE-YOUTUBER:ozPa05ahpkFj1a2BTrvr:START -->
 04f02318-0593-4fed-b055-a38a4d6c231d
