@@ -15,6 +15,11 @@ f634699c-443b-4a68-abe3-b8d382f5436d
 04f02318-0593-4fed-b055-a38a4d6c231d
 <!-- BLUMECORE-YOUTUBER:ozPa05ahpkFj1a2BTrvr:END -->
 
+# BlumeCore: DektivYT
+<!-- BLUMECORE-YOUTUBER:Fq5s22gIqPTxGJRVLfeB:START -->
+36f61294-115e-4953-98a8-03fab1ee4568
+<!-- BLUMECORE-YOUTUBER:Fq5s22gIqPTxGJRVLfeB:END -->
+
 # BlumeCore: Global Blume
 <!-- BLUMECORE-YOUTUBER:__global_blume__:START -->
 058aa284-c0cf-4826-beae-9df1cb411623
